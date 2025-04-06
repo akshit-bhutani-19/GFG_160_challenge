@@ -1,4 +1,5 @@
 // Minimize the Heights II
+
 // Given an array arr[] denoting heights of N towers and a positive integer K.
 
 // For each tower, you must perform exactly one of the following operations exactly once.
